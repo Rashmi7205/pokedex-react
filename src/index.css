@@ -1,0 +1,13 @@
+.btn{
+    width: max-content;
+    height: max-content;
+    padding:10px;
+    margin:20px;
+    background-color: rgb(45, 134, 236);
+    color: #fff;
+    font-size: 1.3em;
+    font-weight: 600;
+    border-radius: 20px;
+    border: none;
+    text-transform: capitalize;
+}
